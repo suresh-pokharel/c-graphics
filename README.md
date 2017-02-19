@@ -3,7 +3,7 @@ This is a graphics work in C to make a car which may helps the Learns to learn a
 This program basically creates a design of small car where dimension of car can be varied with the values of these variables x1,y1,x2,y2.
 An obstacle (a simple vertical bar) is created randomly in the car's way. And car stops when it reaches the nearest point of the obstacle.
 
-#information
+#Information
 `void obstacle(int x1,int y1,int x2,int y2,int obs)`
 This function creates obstacle.
 
